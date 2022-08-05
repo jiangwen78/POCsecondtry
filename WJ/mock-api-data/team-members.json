@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "total": 12345,
+  "data": [
+    {
+        "memberType": "delegate",
+        "teamMemberName": "Delegate McDelegate",
+        "restaurantDetails": "",
+        "inviteStatus": "Pending",
+        "email": "MyEmail@gmail.com"
+    }
+  ]
+}

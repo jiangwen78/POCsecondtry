@@ -1,0 +1,106 @@
+#wizard .wizard-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+  background: #FFFFFF;
+  border-bottom: 1px solid #EDEDED;
+}
+#wizard .wizard-header .logo {
+  position: relative;
+  left: 25%;
+  height: 4rem;
+}
+#wizard .wizard-header .wizard-header-container {
+  position: relative;
+  left: 38%;
+}
+#wizard .wizard-header .wizard-header-container .wizard-heading.large {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+#wizard .wizard-body {
+  margin-top: 5rem;
+  width: 100%;
+  display: flex;
+}
+#wizard .wizard-body .wizard-steps-container {
+  background: #EDEDED;
+  margin-top: 1rem;
+  padding: 2rem 0rem;
+  padding-left: 15%;
+  box-shadow: inset -2px 0px 4px rgba(0, 0, 0, 0.1490196078);
+}
+#wizard .wizard-body .wizard-steps-container #wizard-step-navigation {
+  margin-right: 1rem;
+}
+#wizard .wizard-body .wizard-steps-container #wizard-step-navigation #wizard-step-navigation-step {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+#wizard .wizard-body .wizard-steps-container #wizard-step-navigation #wizard-step-navigation-step .wizard-step-number {
+  border: solid 2px #707070;
+  border-radius: 100%;
+  padding: 0.5rem 0.8rem;
+  margin-right: 1rem;
+}
+#wizard .wizard-body .wizard-steps-container #wizard-step-navigation #wizard-step-navigation-step .wizard-step-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+#wizard .wizard-body .wizard-form-container {
+  padding: 1rem;
+  margin-top: 2rem;
+}
+#wizard .wizard-body .wizard-form-container .wizard-form-content table input, #wizard .wizard-body .wizard-form-container .wizard-form-content table select {
+  padding: 0.5rem;
+  background: #EDEDED;
+  border: none;
+  border-bottom: 1px solid #555555;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+#wizard .wizard-footer {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+}
+#wizard .wizard-footer .wizard-button {
+  padding: 0.8rem 1.2rem;
+  color: #555555;
+  border: none;
+  background: none;
+}
+#wizard .wizard-footer .wizard-button.back {
+  border: 2px #555555 solid;
+}
+#wizard .wizard-footer .wizard-button.next {
+  border: 2px #009132 solid;
+  background: #009132;
+  color: #FFFFFF;
+}
+#wizard .wizard-footer .wizard-step-nav-buttons :first-child {
+  margin-right: 1rem;
+}
+
+select {
+  color: gray;
+}
+select option[value=""][disabled] {
+  display: none;
+}
+select option {
+  color: black;
+}
+
+.warning {
+  color: #FF0402;
+}/*# sourceMappingURL=styles.css.map */

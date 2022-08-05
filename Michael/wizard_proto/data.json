@@ -1,0 +1,31 @@
+{
+    "teamMembers": [
+        {
+            "id": 1,
+            "firstName": "Michael",
+            "lastName": "Allan",
+            "email": "michael@allan.com",
+            "role": "Sandwich Artist"
+        },
+        {
+            "id": 2,
+            "firstName": "Marko",
+            "lastName": "Tsoi",
+            "email": "marko@tsoi.com",
+            "role": "Global Admin"
+        },
+        {
+            "id": 3,
+            "firstName": "Chris",
+            "lastName": "Winters",
+            "email": "chris@winters.com",
+            "role": "Global Admin"
+        }
+    ],
+
+    "taxIdentificationNumbers": [
+        "1234", "1122", "0000"
+    ],
+    
+    "corporations": []
+}

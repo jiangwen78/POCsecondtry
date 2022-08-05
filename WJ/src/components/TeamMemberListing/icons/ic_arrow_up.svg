@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>icon / arrow_up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-/-arrow_up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M12,10.4142136 L16.2928932,14.7071068 C16.6834175,15.0976311 17.3165825,15.0976311 17.7071068,14.7071068 C18.0976311,14.3165825 18.0976311,13.6834175 17.7071068,13.2928932 L12.7071068,8.29289322 C12.3165825,7.90236893 11.6834175,7.90236893 11.2928932,8.29289322 L6.29289322,13.2928932 C5.90236893,13.6834175 5.90236893,14.3165825 6.29289322,14.7071068 C6.68341751,15.0976311 7.31658249,15.0976311 7.70710678,14.7071068 L12,10.4142136 Z" id="Path" fill="#FFF"></path>
+    </g>
+</svg>

@@ -1,0 +1,1 @@
+https://dev.azure.com/rightscale/IPC/_git/IpcSitecore?path=/src/Project/Ipc/code/Theme/src-ipc/assets/images/ipc/icons/play-button.png&version=GBmaster

@@ -1,0 +1,291 @@
+{
+  "success": true,
+  "total": 12345,
+  "data": [
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    },
+    {
+      "franchiseAgreementId": "d05cbf15-3bd8-4a4d-a288-af9f270cdeed",
+      "restaurantNumber": "13521-0",
+      "address": {
+        "line1": "1425 SW 105 Terrrace",
+        "line2": null,
+        "city": "Miami",
+        "state": "FL",
+        "postcode": "33155",
+        "country": "USA"
+      },
+      "documentOnFile": true,
+      "taxIdOnFile": false,
+      "okToSettle": true,
+      "franchiseAgreementNumber": "13521-0-51824",
+      "franchiseAgreementStatus": "Active",
+      "dividendPayment": "146731.09",
+      "dividendYear": "2020"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>icon / outline / search-med</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-/-outline-/-search-med" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="40" height="40"></rect>
+        <path d="M25.8231834,23.5701026 L33.7984154,31.5453346 C34.1889397,31.9358589 34.1889397,32.5690239 33.7984154,32.9595482 C33.4078911,33.3500725 32.7747261,33.3500725 32.3842018,32.9595482 L24.4852129,25.0605593 C22.5219054,26.8845664 19.8912145,28 17,28 C10.9248678,28 6,23.0751322 6,17 C6,10.9248678 10.9248678,6 17,6 C23.0751322,6 28,10.9248678 28,17 C28,19.4629271 27.1905571,21.7367986 25.8231834,23.5701026 Z M17,26 C21.9705627,26 26,21.9705627 26,17 C26,12.0294373 21.9705627,8 17,8 C12.0294373,8 8,12.0294373 8,17 C8,21.9705627 12.0294373,26 17,26 Z" id="Combined-Shape" fill="#000" fill-rule="nonzero"></path>
+    </g>
+</svg>
